@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bmi-app/static/css/main.43dd04fe.css",
-    "main.js": "/bmi-app/static/js/main.a10f95b8.js",
+    "main.js": "/bmi-app/static/js/main.66713e3c.js",
     "static/js/453.3629cf2c.chunk.js": "/bmi-app/static/js/453.3629cf2c.chunk.js",
     "index.html": "/bmi-app/index.html",
     "main.43dd04fe.css.map": "/bmi-app/static/css/main.43dd04fe.css.map",
-    "main.a10f95b8.js.map": "/bmi-app/static/js/main.a10f95b8.js.map",
+    "main.66713e3c.js.map": "/bmi-app/static/js/main.66713e3c.js.map",
     "453.3629cf2c.chunk.js.map": "/bmi-app/static/js/453.3629cf2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43dd04fe.css",
-    "static/js/main.a10f95b8.js"
+    "static/js/main.66713e3c.js"
   ]
 }
